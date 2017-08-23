@@ -36,3 +36,10 @@ layout: page
 ### Let's play
 
 - display: flex;
+- flex-direction: row | row-reverse | column | column-reverse
+- order - displays in numerical order
+- flex-wrap
+
+### Make a Garbage Unicorn
+
+- Most eye-burning website, wins!
